@@ -1,6 +1,6 @@
 baseURL: "https://TimS-ml.github.io/"
 languageCode: "en-us"
-title: "Tim's Machine Learning Blog"
+title: "TimS's Machine Learning Blog"
 theme: "PaperMod"
 paginate: 5
 
@@ -16,8 +16,8 @@ outputs:
 params:
   env: production  # Enable google analytics, opengraph and other features
   description: "A blog about Machine Learning and AI"  # Important SEO description
-  keywords: ["Machine Learning", "AI", "Data Science", "Blog"]
-  author: "Tim"
+  keywords: ["Machine Learning", "AI", "Math", "Entrepreneurship", "Blog"]
+  author: "TimS"
   DateFormat: "January 2, 2006"
 
   # Basic Settings
