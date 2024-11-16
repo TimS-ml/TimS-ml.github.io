@@ -34,8 +34,8 @@ params:
   # Home Page Settings
   profileMode:
     enabled: true
-    title: "Tim's Machine Learning Blog"
-    subtitle: "Exploring AI, Machine Learning, and Data Science"
+    title: "TimS's Machine Learning Blog"
+    subtitle: "Exploring AI, Math and Entrepreneurship"
     imageUrl: "profile.png"  # Add your profile image to static folder
 
   # Recommended social media links
