@@ -47,8 +47,8 @@ params:
 
   # Homepage info settings (if not using profileMode)
   homeInfoParams:
-    Title: "Welcome to Tim's Blog 👋"
-    Content: "Exploring AI, Machine Learning, and Data Science"
+    Title: "Welcome to TimS's Blog 👋"
+    Content: "Exploring AI, Math and Entrepreneurship"
 
 # Main menu configuration
 menu:
