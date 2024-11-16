@@ -36,7 +36,7 @@ params:
     enabled: true
     title: "Tim's Machine Learning Blog"
     subtitle: "Exploring AI, Machine Learning, and Data Science"
-    imageUrl: "profile.jpg"  # Add your profile image to static folder
+    imageUrl: "profile.png"  # Add your profile image to static folder
 
   # Recommended social media links
   socialIcons:
