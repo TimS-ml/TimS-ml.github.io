@@ -5,6 +5,13 @@ Ref:
 - https://jessewei.dev/blog/2023/papermod/#why-did-i-switch
   - https://github.com/jesse-wei/jessewei.dev-PaperMod
 
+
+# New Post
+```bash
+hugo new posts/my-first-post.md
+```
+
+
 # Theme
 Needed when first time clone
 ```bash
