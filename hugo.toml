@@ -1,4 +1,4 @@
-baseURL = "https://tims-ml.github.io/"
+baseURL = "https://TimS-ml.github.io/"
 languageCode = "en-us"
 title = "Tim's Machine Learning Blog"
 theme = "PaperMod"
