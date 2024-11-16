@@ -42,6 +42,8 @@ params:
   socialIcons:
     - name: "github"
       url: "https://github.com/TimS-ml"
+    - name: "twitter"
+      url: "https://x.com/Jxueba"
     # - name: "linkedin"
     #   url: "your LinkedIn link"
 
