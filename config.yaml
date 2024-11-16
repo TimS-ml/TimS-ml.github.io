@@ -1,0 +1,72 @@
+baseURL: "https://TimS-ml.github.io/"
+languageCode: "en-us"
+title: "Tim's Machine Learning Blog"
+theme: "PaperMod"
+paginate: 5
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+# Enable search
+outputs:
+  home: ["HTML", "RSS", "JSON"]
+
+params:
+  env: production  # Enable google analytics, opengraph and other features
+  description: "A blog about Machine Learning and AI"  # Important SEO description
+  keywords: ["Machine Learning", "AI", "Data Science", "Blog"]
+  author: "Tim"
+  DateFormat: "January 2, 2006"
+
+  # Basic Settings
+  defaultTheme: auto
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowWordCount: true
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+
+  # Home Page Settings
+  profileMode:
+    enabled: true
+    title: "Tim's Machine Learning Blog"
+    subtitle: "Exploring AI, Machine Learning, and Data Science"
+    imageUrl: "profile.jpg"  # Add your profile image to static folder
+
+  # Recommended social media links
+  socialIcons:
+    - name: "github"
+      url: "https://github.com/TimS-ml"
+    # - name: "linkedin"
+    #   url: "your LinkedIn link"
+
+  # Homepage info settings (if not using profileMode)
+  homeInfoParams:
+    Title: "Welcome to Tim's Blog 👋"
+    Content: "Exploring AI, Machine Learning, and Data Science"
+
+# Main menu configuration
+menu:
+  main:
+    - identifier: "posts"
+      name: "Posts"
+      url: "/posts/"
+      weight: 10
+    - identifier: "categories"
+      name: "Categories"
+      url: "/categories/"
+      weight: 20
+    - identifier: "tags"
+      name: "Tags"
+      url: "/tags/"
+      weight: 30
+
+# Code highlighting settings
+markup:
+  highlight:
+    noClasses: false
