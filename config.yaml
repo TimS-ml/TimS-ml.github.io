@@ -33,9 +33,9 @@ params:
   # Home Page Settings
   profileMode:
     enabled: true
-    title: "TimS's Machine Learning Blog"
-    subtitle: "Exploring AI, Math and Entrepreneurship"
-    imageUrl: "profile.png"  # Add your profile image to static folder
+    title: "TimS's Blog on AI, Math and Entrepreneurship"
+    subtitle: "Where there is a will, there is a way."
+    imageUrl: "profile.png"
 
   # Recommended social media links
   socialIcons:
@@ -46,10 +46,10 @@ params:
     # - name: "linkedin"
     #   url: "your LinkedIn link"
 
-  # Homepage info settings (if not using profileMode)
-  homeInfoParams:
-    Title: "Welcome to TimS's Blog 👋"
-    Content: "Exploring AI, Math and Entrepreneurship"
+  # # Homepage info settings (if not using profileMode)
+  # homeInfoParams:
+  #   Title: "Welcome to TimS's Blog 👋"
+  #   Content: "Exploring AI, Math and Entrepreneurship"
 
   fuseOpts:
     isCaseSensitive: false
