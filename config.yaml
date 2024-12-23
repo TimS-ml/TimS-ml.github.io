@@ -20,7 +20,7 @@ params:
   DateFormat: "January 2, 2006"
 
   # Basic Settings
-  defaultTheme: auto
+  defaultTheme: light
   ShowReadingTime: true
   ShowShareButtons: true
   ShowPostNavLinks: true

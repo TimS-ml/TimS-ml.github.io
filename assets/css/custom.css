@@ -1,0 +1,36 @@
+/* Style for unchecked boxes */
+.post-content ul > li > input[type="checkbox"] {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 1.2em;
+  height: 1.2em;
+  border: 2px solid #333;
+  border-radius: 0.2em;
+  margin-right: 0.5em;
+  vertical-align: middle;
+  position: relative;
+  cursor: pointer;
+}
+
+/* Style for checked boxes */
+.post-content ul > li > input[type="checkbox"]:checked {
+  background-color: #2196F3;
+  border-color: #2196F3;
+}
+
+/* Checkmark style */
+.post-content ul > li > input[type="checkbox"]:checked::before {
+  content: '\2714';
+  font-size: 1em;
+  color: white;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+/* Style for list items with checkboxes */
+.post-content ul > li {
+  list-style-type: none;
+  margin-left: -1.5em;
+}
