@@ -7,19 +7,28 @@ title: 'Cambly Topics'
 {{< progress-bar >}}
 
 # Topics:
-__Food & Dining__
-- [x] [Cooking](https://www.eslconversationquestions.com/topics/cooking/)
-- [x] [Eating Habits](https://www.eslconversationquestions.com/topics/eating-habits/)
-- [x] [Fast Food](https://www.eslconversationquestions.com/topics/fast-food/)
-- [x] [Food](https://www.eslconversationquestions.com/topics/food/)
-- [x] [Restaurants](https://www.eslconversationquestions.com/topics/restaurants/)
-
 __Happiness & Values__
 - [ ] [Success and Failure](https://www.eslconversationquestions.com/topics/success-and-failure/)
 - [ ] [Motivation](https://www.eslconversationquestions.com/topics/motivation/)
 - [ ] [Wishes](https://www.eslconversationquestions.com/topics/wishes/)
 - [ ] [Future](https://www.eslconversationquestions.com/topics/future/)
 - [ ] [Choices](https://www.eslconversationquestions.com/topics/choices/)
+- [ ] Values
+- [ ] Happiness
+
+__Health & Fitness__
+- [ ] [Health](https://www.eslconversationquestions.com/topics/health/)
+- [ ] [Massage](https://www.eslconversationquestions.com/massage/)
+- [ ] [Sports](https://www.eslconversationquestions.com/topics/sports/)
+- [x] [Eating Habits](https://www.eslconversationquestions.com/topics/eating-habits/)
+- [ ] [Remedies](https://www.eslconversationquestions.com/topics/remedies/)
+
+__Food & Dining__
+- [x] [Cooking](https://www.eslconversationquestions.com/topics/cooking/)
+- [x] [Eating Habits](https://www.eslconversationquestions.com/topics/eating-habits/)
+- [x] [Fast Food](https://www.eslconversationquestions.com/topics/fast-food/)
+- [x] [Food](https://www.eslconversationquestions.com/topics/food/)
+- [x] [Restaurants](https://www.eslconversationquestions.com/topics/restaurants/)
 
 
 # References:
@@ -84,7 +93,7 @@ __Happiness & Values__
 - [ ] [Golf](https://www.eslconversationquestions.com/golf/)
 - [ ] [Habits](https://www.eslconversationquestions.com/topics/habits/)
 - [ ] [Having Children](https://www.eslconversationquestions.com/topics/having-children/)
-- [ ] [Health](https://www.eslconversationquestions.com/topics/health/)
+- [x] [Health](https://www.eslconversationquestions.com/topics/health/)
 - [ ] [Holidays](https://www.eslconversationquestions.com/topics/holidays/)
 - [ ] [Homes](https://www.eslconversationquestions.com/topics/homes/)
 - [ ] [Hotels](https://www.eslconversationquestions.com/topics/hotels/)
@@ -100,7 +109,7 @@ __Happiness & Values__
 - [ ] [Luxury Items](https://www.eslconversationquestions.com/topics/luxury-items/)
 - [ ] [Manners](https://www.eslconversationquestions.com/topics/manners/)
 - [ ] [Marriage](https://www.eslconversationquestions.com/topics/marriage/)
-- [ ] [Massage](https://www.eslconversationquestions.com/massage/)
+- [x] [Massage](https://www.eslconversationquestions.com/massage/)
 - [ ] [Meeting New People](https://www.eslconversationquestions.com/topics/meeting-new-people/)
 - [ ] [Memory](https://www.eslconversationquestions.com/topics/memory/)
 - [x] [Motivation](https://www.eslconversationquestions.com/topics/motivation/)
@@ -119,7 +128,7 @@ __Happiness & Values__
 - [ ] [Pressures of Being a Student](https://www.eslconversationquestions.com/pressures-of-being-a-student/)
 - [ ] [Privacy](https://www.eslconversationquestions.com/topics/privacy/)
 - [ ] [Productivity](https://www.eslconversationquestions.com/topics/productivity/)
-- [ ] [Remedies](https://www.eslconversationquestions.com/topics/remedies/)
+- [x] [Remedies](https://www.eslconversationquestions.com/topics/remedies/)
 - [ ] [Responsibility](https://www.eslconversationquestions.com/topics/responsibility/)
 - [x] [Restaurants](https://www.eslconversationquestions.com/topics/restaurants/)
 - [ ] [Seasons](https://www.eslconversationquestions.com/topics/seasons/)
@@ -129,7 +138,7 @@ __Happiness & Values__
 - [ ] [Single Life](https://www.eslconversationquestions.com/topics/single-life/)
 - [ ] [Smoking](https://www.eslconversationquestions.com/topics/smoking/)
 - [ ] [Space](https://www.eslconversationquestions.com/space/)
-- [ ] [Sports](https://www.eslconversationquestions.com/topics/sports/)
+- [x] [Sports](https://www.eslconversationquestions.com/topics/sports/)
 - [ ] [Stories](https://www.eslconversationquestions.com/topics/stories/)
 - [x] [Success and Failure](https://www.eslconversationquestions.com/topics/success-and-failure/)
 - [ ] [Super Heroes](https://www.eslconversationquestions.com/topics/super-heroes/)
