@@ -5,14 +5,16 @@ title: 'Cambly Topics'
 ---
 
 <div class="progress-bar-container" style="width: 100%; background-color: #f0f0f0; border-radius: 5px; margin: 20px 0;">
-    <div class="progress-bar" style="width: 0%; height: 20px; background-color: #4CAF50; border-radius: 5px; text-align: center; color: white;">
+    <div id="progress-bar" class="progress-bar" style="width: 0%; height: 20px; background-color: #4CAF50; border-radius: 5px; text-align: center; color: white;">
         0%
     </div>
 </div>
 
+<div id="completion-status"></div>
+
 # Topics:
 
-- [x] Food & Dining
+- [ ] Food & Dining
 - [ ] Hobbies & Leisure Time
 - [ ] Travel & Adventure
 - [ ] Work & Career
@@ -22,3 +24,30 @@ title: 'Cambly Topics'
 - [ ] Culture & Traditions
 - [ ] Health & Wellness
 - [ ] Environment & Sustainability
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    function updateProgress() {
+        const totalTasks = document.querySelectorAll('li').length;
+        const completedTasks = document.querySelectorAll('li:has(input:checked)').length;
+        const percentage = (completedTasks / totalTasks) * 100;
+        
+        const progressBar = document.getElementById('progress-bar');
+        const completionStatus = document.getElementById('completion-status');
+        
+        progressBar.style.width = percentage + '%';
+        progressBar.textContent = Math.round(percentage) + '%';
+        completionStatus.textContent = `完成进度: ${completedTasks}/${totalTasks}`;
+    }
+
+    // 初始化进度
+    updateProgress();
+
+    // 监听复选框变化
+    document.addEventListener('change', function(e) {
+        if (e.target.type === 'checkbox') {
+            updateProgress();
+        }
+    });
+});
+</script>
