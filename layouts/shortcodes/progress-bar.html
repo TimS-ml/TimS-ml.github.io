@@ -1,0 +1,50 @@
+<div class="progress-container">
+    <!-- All ESL Topics Progress -->
+    <h4>All ESL Topics Progress</h4>
+    <div class="progress-bar-container" style="width: 100%; background-color: #f0f0f0; border-radius: 5px; margin: 20px 0;">
+        <div id="all-topics-progress-bar" class="progress-bar" style="width: 0%; height: 20px; background-color: #4CAF50; border-radius: 5px; text-align: center; color: white;">
+            0%
+        </div>
+    </div>
+    <div id="all-topics-completion-status"></div>
+</div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    function updateProgress() {
+        // Only process All ESL Conversation Topics section
+        const allTopicsHeader = Array.from(document.querySelectorAll('h1, h2, h3')).find(h => 
+            h.textContent.includes('All ESL Conversation Topics'));
+        
+        if (allTopicsHeader) {
+            let currentElement = allTopicsHeader.nextElementSibling;
+            while (currentElement && !currentElement.matches('h1, h2, h3')) {
+                if (currentElement.tagName === 'UL') {
+                    const totalTasks = 100;
+                    const completedTasks = currentElement.querySelectorAll('li input[type="checkbox"]:checked').length;
+                    const percentage = (completedTasks / totalTasks) * 100;
+                    
+                    const progressBar = document.getElementById('all-topics-progress-bar');
+                    const completionStatus = document.getElementById('all-topics-completion-status');
+                    
+                    progressBar.style.width = percentage + '%';
+                    progressBar.textContent = Math.round(percentage) + '%';
+                    completionStatus.textContent = `Progress: ${completedTasks}/${totalTasks}`;
+                    break;
+                }
+                currentElement = currentElement.nextElementSibling;
+            }
+        }
+    }
+
+    // Initial update
+    updateProgress();
+
+    // Listen for checkbox changes
+    document.addEventListener('change', function(e) {
+        if (e.target.type === 'checkbox') {
+            updateProgress();
+        }
+    });
+});
+</script>

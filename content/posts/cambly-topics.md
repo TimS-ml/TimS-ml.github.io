@@ -4,50 +4,144 @@ draft: false
 title: 'Cambly Topics'
 ---
 
-<div class="progress-bar-container" style="width: 100%; background-color: #f0f0f0; border-radius: 5px; margin: 20px 0;">
-    <div id="progress-bar" class="progress-bar" style="width: 0%; height: 20px; background-color: #4CAF50; border-radius: 5px; text-align: center; color: white;">
-        0%
-    </div>
-</div>
-
-<div id="completion-status"></div>
+{{< progress-bar >}}
 
 # Topics:
+__Food & Dining__
+- [x] [Cooking](https://www.eslconversationquestions.com/topics/cooking/)
+- [x] [Eating Habits](https://www.eslconversationquestions.com/topics/eating-habits/)
+- [x] [Fast Food](https://www.eslconversationquestions.com/topics/fast-food/)
+- [x] [Food](https://www.eslconversationquestions.com/topics/food/)
+- [x] [Restaurants](https://www.eslconversationquestions.com/topics/restaurants/)
 
-- [x] Food & Dining
-- [ ] Hobbies & Leisure Time
-- [ ] Travel & Adventure
-- [ ] Work & Career
-- [ ] Family & Relationships
-- [ ] Education & Learning
-- [ ] Technology & Innovation
-- [ ] Culture & Traditions
-- [ ] Health & Wellness
-- [ ] Environment & Sustainability
+__Happiness & Values__
+- [ ] [Success and Failure](https://www.eslconversationquestions.com/topics/success-and-failure/)
+- [ ] [Motivation](https://www.eslconversationquestions.com/topics/motivation/)
+- [ ] [Wishes](https://www.eslconversationquestions.com/topics/wishes/)
+- [ ] [Future](https://www.eslconversationquestions.com/topics/future/)
+- [ ] [Choices](https://www.eslconversationquestions.com/topics/choices/)
 
-<script>
-document.addEventListener('DOMContentLoaded', function() {
-    function updateProgress() {
-        const totalTasks = document.querySelectorAll('li').length;
-        const completedTasks = document.querySelectorAll('li:has(input:checked)').length;
-        const percentage = (completedTasks / totalTasks) * 100;
-        
-        const progressBar = document.getElementById('progress-bar');
-        const completionStatus = document.getElementById('completion-status');
-        
-        progressBar.style.width = percentage + '%';
-        progressBar.textContent = Math.round(percentage) + '%';
-        completionStatus.textContent = `Progress: ${completedTasks}/${totalTasks}`;
-    }
 
-    // Initialize progress
-    updateProgress();
+# References:
+- [ESL Conversation Topics](https://www.eslconversationquestions.com/english-conversation-questions/topics/)
+- [100+ Interesting Debate Topics - Owlcation](https://owlcation.com/academia/100-Debate-Topics)
+- [Study English, Stay Informed - Engoo Daily News](https://engoo.com/app/daily-news)
 
-    // Listen for checkbox changes
-    document.addEventListener('change', function(e) {
-        if (e.target.type === 'checkbox') {
-            updateProgress();
-        }
-    });
-});
-</script>
+
+# All ESL Conversation Topics:
+- [ ] [Adoption](https://www.eslconversationquestions.com/topics/adoption/)
+- [ ] [Advice](https://www.eslconversationquestions.com/topics/advice/)
+- [ ] [Aging](https://www.eslconversationquestions.com/aging/)
+- [ ] [Aliens](https://www.eslconversationquestions.com/topics/aliens/)
+- [ ] [Animals](https://www.eslconversationquestions.com/topics/animals/)
+- [ ] [Appearance](https://www.eslconversationquestions.com/topics/appearance/)
+- [ ] [Architecture/Building Design](https://www.eslconversationquestions.com/topics/architecturebuilding-design/)
+- [ ] [Art](https://www.eslconversationquestions.com/topics/art/)
+- [ ] [Beauty](https://www.eslconversationquestions.com/topics/beauty/)
+- [ ] [Birthdays](https://www.eslconversationquestions.com/birthdays/)
+- [ ] [Books](https://www.eslconversationquestions.com/topics/books/)
+- [ ] [Brains](https://www.eslconversationquestions.com/topics/brains/)
+- [ ] [Camping](https://www.eslconversationquestions.com/topics/camping/)
+- [ ] [Cars and Driving](https://www.eslconversationquestions.com/topics/cars-and-driving/)
+- [ ] [Challenges](https://www.eslconversationquestions.com/topics/challenges/)
+- [ ] [Change](https://www.eslconversationquestions.com/topics/change/)
+- [ ] [Charity](https://www.eslconversationquestions.com/topics/charity/)
+- [ ] [Childhood](https://www.eslconversationquestions.com/childhood/)
+- [x] [Choices](https://www.eslconversationquestions.com/topics/choices/)
+- [ ] [Cities](https://www.eslconversationquestions.com/topics/cities/)
+- [ ] [Cleanliness](https://www.eslconversationquestions.com/topics/cleanliness/)
+- [ ] [Cloning](https://www.eslconversationquestions.com/topics/cloning/)
+- [ ] [Color](https://www.eslconversationquestions.com/topics/color/)
+- [ ] [Communication](https://www.eslconversationquestions.com/topics/communication/)
+- [ ] [Computers](https://www.eslconversationquestions.com/topics/computers/)
+- [ ] [Conspiracies and Cover Ups](https://www.eslconversationquestions.com/topics/conspiracies-and-cover-ups/)
+- [x] [Cooking](https://www.eslconversationquestions.com/topics/cooking/)
+- [ ] [Corruption](https://www.eslconversationquestions.com/corruption/)
+- [ ] [Crime](https://www.eslconversationquestions.com/topics/crime/)
+- [ ] [Customs](https://www.eslconversationquestions.com/topics/customs/)
+- [ ] [Dating](https://www.eslconversationquestions.com/topics/dating/)
+- [ ] [Disabilities](https://www.eslconversationquestions.com/topics/disabilities/)
+- [ ] [Dreaming](https://www.eslconversationquestions.com/topics/dreaming/)
+- [x] [Eating Habits](https://www.eslconversationquestions.com/topics/eating-habits/)
+- [ ] [Electric Cars](https://www.eslconversationquestions.com/topics/electric-cars/)
+- [ ] [Email](https://www.eslconversationquestions.com/topics/email/)
+- [ ] [Empathy](https://www.eslconversationquestions.com/topics/empathy/)
+- [ ] [Entrepreneurs](https://www.eslconversationquestions.com/topics/entrepreneurs/)
+- [ ] [Environmental Problems](https://www.eslconversationquestions.com/topics/environmental-problems/)
+- [ ] [Ethics](https://www.eslconversationquestions.com/topics/ethics/)
+- [ ] [Facts and Statistics](https://www.eslconversationquestions.com/topics/interesting-facts-and-statistics/)
+- [ ] [Family](https://www.eslconversationquestions.com/topics/family/)
+- [ ] [Family Values](https://www.eslconversationquestions.com/topics/family-values/)
+- [ ] [Fashion](https://www.eslconversationquestions.com/topics/fashion/)
+- [x] [Fast Food](https://www.eslconversationquestions.com/topics/fast-food/)
+- [ ] [First Impressions](https://www.eslconversationquestions.com/topics/first-impressions/)
+- [x] [Food](https://www.eslconversationquestions.com/topics/food/)
+- [ ] [Free Time](https://www.eslconversationquestions.com/topics/free-time/)
+- [ ] [Friendship](https://www.eslconversationquestions.com/topics/friendship/)
+- [x] [Future](https://www.eslconversationquestions.com/topics/future/)
+- [ ] [Games](https://www.eslconversationquestions.com/topics/games/)
+- [ ] [Getting a Job](https://www.eslconversationquestions.com/topics/getting-a-job/)
+- [ ] [Golf](https://www.eslconversationquestions.com/golf/)
+- [ ] [Habits](https://www.eslconversationquestions.com/topics/habits/)
+- [ ] [Having Children](https://www.eslconversationquestions.com/topics/having-children/)
+- [ ] [Health](https://www.eslconversationquestions.com/topics/health/)
+- [ ] [Holidays](https://www.eslconversationquestions.com/topics/holidays/)
+- [ ] [Homes](https://www.eslconversationquestions.com/topics/homes/)
+- [ ] [Hotels](https://www.eslconversationquestions.com/topics/hotels/)
+- [ ] [Human Wonders](https://www.eslconversationquestions.com/topics/human-wonders/)
+- [ ] [Idol Worship](https://www.eslconversationquestions.com/topics/idol-worship/)
+- [ ] [Immigration](https://www.eslconversationquestions.com/topics/immigration/)
+- [ ] [Individuality](https://www.eslconversationquestions.com/topics/individuality/)
+- [ ] [Intelligence](https://www.eslconversationquestions.com/topics/intelligence/)
+- [ ] [Jobs](https://www.eslconversationquestions.com/topics/jobs/)
+- [ ] [Languages](https://www.eslconversationquestions.com/topics/languages/)
+- [ ] [Learning English](https://www.eslconversationquestions.com/topics/learning-english/)
+- [ ] [Love](https://www.eslconversationquestions.com/topics/love/)
+- [ ] [Luxury Items](https://www.eslconversationquestions.com/topics/luxury-items/)
+- [ ] [Manners](https://www.eslconversationquestions.com/topics/manners/)
+- [ ] [Marriage](https://www.eslconversationquestions.com/topics/marriage/)
+- [ ] [Massage](https://www.eslconversationquestions.com/massage/)
+- [ ] [Meeting New People](https://www.eslconversationquestions.com/topics/meeting-new-people/)
+- [ ] [Memory](https://www.eslconversationquestions.com/topics/memory/)
+- [x] [Motivation](https://www.eslconversationquestions.com/topics/motivation/)
+- [ ] [Movies](https://www.eslconversationquestions.com/topics/movies/)
+- [ ] [Multiple Intelligences](https://www.eslconversationquestions.com/topics/multiple-intelligences/)
+- [ ] [Music](https://www.eslconversationquestions.com/topics/music/)
+- [ ] [Natural Disasters](https://www.eslconversationquestions.com/topics/natural-disasters/)
+- [ ] [Natural Wonders](https://www.eslconversationquestions.com/topics/natural-wonders/)
+- [ ] [Neighborhoods](https://www.eslconversationquestions.com/topics/neighborhoods/)
+- [ ] [Neighbors](https://www.eslconversationquestions.com/topics/neighbors/)
+- [ ] [News](https://www.eslconversationquestions.com/topics/news/)
+- [ ] [Numbers](https://www.eslconversationquestions.com/topics/numbers/)
+- [ ] [Online Dating](https://www.eslconversationquestions.com/topics/online-dating/)
+- [ ] [Past Ability](https://www.eslconversationquestions.com/topics/past-ability/)
+- [ ] [Personality](https://www.eslconversationquestions.com/topics/personality/)
+- [ ] [Pressures of Being a Student](https://www.eslconversationquestions.com/pressures-of-being-a-student/)
+- [ ] [Privacy](https://www.eslconversationquestions.com/topics/privacy/)
+- [ ] [Productivity](https://www.eslconversationquestions.com/topics/productivity/)
+- [ ] [Remedies](https://www.eslconversationquestions.com/topics/remedies/)
+- [ ] [Responsibility](https://www.eslconversationquestions.com/topics/responsibility/)
+- [x] [Restaurants](https://www.eslconversationquestions.com/topics/restaurants/)
+- [ ] [Seasons](https://www.eslconversationquestions.com/topics/seasons/)
+- [ ] [Secrets](https://www.eslconversationquestions.com/topics/secrets/)
+- [ ] [Shopping](https://www.eslconversationquestions.com/topics/shopping/)
+- [ ] [Singing](https://www.eslconversationquestions.com/singing/)
+- [ ] [Single Life](https://www.eslconversationquestions.com/topics/single-life/)
+- [ ] [Smoking](https://www.eslconversationquestions.com/topics/smoking/)
+- [ ] [Space](https://www.eslconversationquestions.com/space/)
+- [ ] [Sports](https://www.eslconversationquestions.com/topics/sports/)
+- [ ] [Stories](https://www.eslconversationquestions.com/topics/stories/)
+- [x] [Success and Failure](https://www.eslconversationquestions.com/topics/success-and-failure/)
+- [ ] [Super Heroes](https://www.eslconversationquestions.com/topics/super-heroes/)
+- [ ] [Technology](https://www.eslconversationquestions.com/topics/technology/)
+- [ ] [Television](https://www.eslconversationquestions.com/topics/television/)
+- [ ] [The Five Senses](https://www.eslconversationquestions.com/topics/the-five-senses/)
+- [ ] [The Internet](https://www.eslconversationquestions.com/topics/the-internet/)
+- [ ] [The Media](https://www.eslconversationquestions.com/the-media/)
+- [ ] [The Past](https://www.eslconversationquestions.com/topics/the-past/)
+- [ ] [The Supernatural](https://www.eslconversationquestions.com/topics/supernatural/)
+- [ ] [Tourism](https://www.eslconversationquestions.com/tourism/)
+- [ ] [Transitions](https://www.eslconversationquestions.com/topics/transitions/)
+- [ ] [Travel](https://www.eslconversationquestions.com/topics/travel/)
+- [ ] [Water](https://www.eslconversationquestions.com/topics/water/)
+- [x] [Wishes](https://www.eslconversationquestions.com/topics/wishes/)
