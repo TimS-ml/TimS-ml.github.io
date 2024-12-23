@@ -14,7 +14,7 @@ document.addEventListener('DOMContentLoaded', function() {
     function updateProgress() {
         // Only process All ESL Conversation Topics section
         const allTopicsHeader = Array.from(document.querySelectorAll('h1, h2, h3')).find(h => 
-            h.textContent.includes('All ESL Conversation Topics'));
+            h.textContent.includes('ESL Conversation Topics Progress'));
         
         if (allTopicsHeader) {
             let currentElement = allTopicsHeader.nextElementSibling;
