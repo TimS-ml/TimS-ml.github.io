@@ -14,7 +14,7 @@ title: 'Cambly Topics'
 
 # Topics:
 
-- [ ] Food & Dining
+- [x] Food & Dining
 - [ ] Hobbies & Leisure Time
 - [ ] Travel & Adventure
 - [ ] Work & Career
@@ -37,13 +37,13 @@ document.addEventListener('DOMContentLoaded', function() {
         
         progressBar.style.width = percentage + '%';
         progressBar.textContent = Math.round(percentage) + '%';
-        completionStatus.textContent = `完成进度: ${completedTasks}/${totalTasks}`;
+        completionStatus.textContent = `Progress: ${completedTasks}/${totalTasks}`;
     }
 
-    // 初始化进度
+    // Initialize progress
     updateProgress();
 
-    // 监听复选框变化
+    // Listen for checkbox changes
     document.addEventListener('change', function(e) {
         if (e.target.type === 'checkbox') {
             updateProgress();
