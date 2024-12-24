@@ -35,6 +35,7 @@ __Food & Dining__
 - [ESL Conversation Topics](https://www.eslconversationquestions.com/english-conversation-questions/topics/)
 - [100+ Interesting Debate Topics - Owlcation](https://owlcation.com/academia/100-Debate-Topics)
 - [Study English, Stay Informed - Engoo Daily News](https://engoo.com/app/daily-news)
+- [Paul Graham Essays](https://paulgraham.com/articles.html)
 
 
 # All ESL Conversation Topics:
