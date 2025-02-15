@@ -7,14 +7,6 @@ title: 'Cambly Topics'
 {{< progress-bar >}}
 
 # Topics:
-__Happiness & Values__
-- [ ] [Success and Failure](https://www.eslconversationquestions.com/topics/success-and-failure/)
-- [ ] [Motivation](https://www.eslconversationquestions.com/topics/motivation/)
-- [ ] [Wishes](https://www.eslconversationquestions.com/topics/wishes/)
-- [ ] [Future](https://www.eslconversationquestions.com/topics/future/)
-- [ ] [Choices](https://www.eslconversationquestions.com/topics/choices/)
-- [ ] Values
-- [ ] Happiness
 
 __Health & Fitness__
 - [ ] [Health](https://www.eslconversationquestions.com/topics/health/)
@@ -22,6 +14,35 @@ __Health & Fitness__
 - [ ] [Sports](https://www.eslconversationquestions.com/topics/sports/)
 - [x] [Eating Habits](https://www.eslconversationquestions.com/topics/eating-habits/)
 - [ ] [Remedies](https://www.eslconversationquestions.com/topics/remedies/)
+
+__Brain & Intelligence & Learning__
+- [ ] [Books](https://www.eslconversationquestions.com/topics/books/)
+- [ ] [Brains](https://www.eslconversationquestions.com/topics/brains/)
+- [ ] [Intelligence](https://www.eslconversationquestions.com/topics/intelligence/)
+- [ ] [Multiple Intelligences](https://www.eslconversationquestions.com/topics/multiple-intelligences/)
+- [ ] [Memory](https://www.eslconversationquestions.com/topics/memory/)
+- [ ] [Languages](https://www.eslconversationquestions.com/topics/languages/)
+- [ ] [Learning English](https://www.eslconversationquestions.com/topics/learning-english/)
+
+__Social Life__
+- [ ] [Meeting New People](https://www.eslconversationquestions.com/topics/meeting-new-people/)
+- [ ] [Communication](https://www.eslconversationquestions.com/topics/communication/)
+- [ ] [Dating](https://www.eslconversationquestions.com/topics/dating/)
+- [ ] [First Impressions](https://www.eslconversationquestions.com/topics/first-impressions/)
+- [ ] [Friendship](https://www.eslconversationquestions.com/topics/friendship/)
+- [ ] [Neighborhoods](https://www.eslconversationquestions.com/topics/neighborhoods/)
+- [ ] [Neighbors](https://www.eslconversationquestions.com/topics/neighbors/)
+- Social Media
+
+__Happiness & Values__
+- [ ] [Success and Failure](https://www.eslconversationquestions.com/topics/success-and-failure/)
+- [ ] [Birthdays](https://www.eslconversationquestions.com/birthdays/)
+- [x] [Motivation](https://www.eslconversationquestions.com/topics/motivation/)
+- [x] [Wishes](https://www.eslconversationquestions.com/topics/wishes/)
+- [x] [Future](https://www.eslconversationquestions.com/topics/future/)
+- [x] [Choices](https://www.eslconversationquestions.com/topics/choices/)
+- [x] Values
+- [x] Happiness
 
 __Food & Dining__
 - [x] [Cooking](https://www.eslconversationquestions.com/topics/cooking/)
@@ -32,6 +53,7 @@ __Food & Dining__
 
 
 # References:
+- [ESL Discussion Topics](https://printdiscuss.com/topics/)
 - [ESL Conversation Topics](https://www.eslconversationquestions.com/english-conversation-questions/topics/)
 - [100+ Interesting Debate Topics - Owlcation](https://owlcation.com/academia/100-Debate-Topics)
 - [Study English, Stay Informed - Engoo Daily News](https://engoo.com/app/daily-news)
@@ -48,9 +70,9 @@ __Food & Dining__
 - [ ] [Architecture/Building Design](https://www.eslconversationquestions.com/topics/architecturebuilding-design/)
 - [ ] [Art](https://www.eslconversationquestions.com/topics/art/)
 - [ ] [Beauty](https://www.eslconversationquestions.com/topics/beauty/)
-- [ ] [Birthdays](https://www.eslconversationquestions.com/birthdays/)
-- [ ] [Books](https://www.eslconversationquestions.com/topics/books/)
-- [ ] [Brains](https://www.eslconversationquestions.com/topics/brains/)
+- [x] [Birthdays](https://www.eslconversationquestions.com/birthdays/)
+- [x] [Books](https://www.eslconversationquestions.com/topics/books/)
+- [x] [Brains](https://www.eslconversationquestions.com/topics/brains/)
 - [ ] [Camping](https://www.eslconversationquestions.com/topics/camping/)
 - [ ] [Cars and Driving](https://www.eslconversationquestions.com/topics/cars-and-driving/)
 - [ ] [Challenges](https://www.eslconversationquestions.com/topics/challenges/)
@@ -62,14 +84,14 @@ __Food & Dining__
 - [ ] [Cleanliness](https://www.eslconversationquestions.com/topics/cleanliness/)
 - [ ] [Cloning](https://www.eslconversationquestions.com/topics/cloning/)
 - [ ] [Color](https://www.eslconversationquestions.com/topics/color/)
-- [ ] [Communication](https://www.eslconversationquestions.com/topics/communication/)
+- [x] [Communication](https://www.eslconversationquestions.com/topics/communication/)
 - [ ] [Computers](https://www.eslconversationquestions.com/topics/computers/)
 - [ ] [Conspiracies and Cover Ups](https://www.eslconversationquestions.com/topics/conspiracies-and-cover-ups/)
 - [x] [Cooking](https://www.eslconversationquestions.com/topics/cooking/)
 - [ ] [Corruption](https://www.eslconversationquestions.com/corruption/)
 - [ ] [Crime](https://www.eslconversationquestions.com/topics/crime/)
 - [ ] [Customs](https://www.eslconversationquestions.com/topics/customs/)
-- [ ] [Dating](https://www.eslconversationquestions.com/topics/dating/)
+- [x] [Dating](https://www.eslconversationquestions.com/topics/dating/)
 - [ ] [Disabilities](https://www.eslconversationquestions.com/topics/disabilities/)
 - [ ] [Dreaming](https://www.eslconversationquestions.com/topics/dreaming/)
 - [x] [Eating Habits](https://www.eslconversationquestions.com/topics/eating-habits/)
@@ -84,10 +106,10 @@ __Food & Dining__
 - [ ] [Family Values](https://www.eslconversationquestions.com/topics/family-values/)
 - [ ] [Fashion](https://www.eslconversationquestions.com/topics/fashion/)
 - [x] [Fast Food](https://www.eslconversationquestions.com/topics/fast-food/)
-- [ ] [First Impressions](https://www.eslconversationquestions.com/topics/first-impressions/)
+- [x] [First Impressions](https://www.eslconversationquestions.com/topics/first-impressions/)
 - [x] [Food](https://www.eslconversationquestions.com/topics/food/)
 - [ ] [Free Time](https://www.eslconversationquestions.com/topics/free-time/)
-- [ ] [Friendship](https://www.eslconversationquestions.com/topics/friendship/)
+- [x] [Friendship](https://www.eslconversationquestions.com/topics/friendship/)
 - [x] [Future](https://www.eslconversationquestions.com/topics/future/)
 - [ ] [Games](https://www.eslconversationquestions.com/topics/games/)
 - [ ] [Getting a Job](https://www.eslconversationquestions.com/topics/getting-a-job/)
@@ -102,25 +124,25 @@ __Food & Dining__
 - [ ] [Idol Worship](https://www.eslconversationquestions.com/topics/idol-worship/)
 - [ ] [Immigration](https://www.eslconversationquestions.com/topics/immigration/)
 - [ ] [Individuality](https://www.eslconversationquestions.com/topics/individuality/)
-- [ ] [Intelligence](https://www.eslconversationquestions.com/topics/intelligence/)
+- [x] [Intelligence](https://www.eslconversationquestions.com/topics/intelligence/)
 - [ ] [Jobs](https://www.eslconversationquestions.com/topics/jobs/)
-- [ ] [Languages](https://www.eslconversationquestions.com/topics/languages/)
-- [ ] [Learning English](https://www.eslconversationquestions.com/topics/learning-english/)
+- [x] [Languages](https://www.eslconversationquestions.com/topics/languages/)
+- [x] [Learning English](https://www.eslconversationquestions.com/topics/learning-english/)
 - [ ] [Love](https://www.eslconversationquestions.com/topics/love/)
 - [ ] [Luxury Items](https://www.eslconversationquestions.com/topics/luxury-items/)
 - [ ] [Manners](https://www.eslconversationquestions.com/topics/manners/)
 - [ ] [Marriage](https://www.eslconversationquestions.com/topics/marriage/)
 - [x] [Massage](https://www.eslconversationquestions.com/massage/)
 - [ ] [Meeting New People](https://www.eslconversationquestions.com/topics/meeting-new-people/)
-- [ ] [Memory](https://www.eslconversationquestions.com/topics/memory/)
+- [x] [Memory](https://www.eslconversationquestions.com/topics/memory/)
 - [x] [Motivation](https://www.eslconversationquestions.com/topics/motivation/)
 - [ ] [Movies](https://www.eslconversationquestions.com/topics/movies/)
-- [ ] [Multiple Intelligences](https://www.eslconversationquestions.com/topics/multiple-intelligences/)
+- [x] [Multiple Intelligences](https://www.eslconversationquestions.com/topics/multiple-intelligences/)
 - [ ] [Music](https://www.eslconversationquestions.com/topics/music/)
 - [ ] [Natural Disasters](https://www.eslconversationquestions.com/topics/natural-disasters/)
 - [ ] [Natural Wonders](https://www.eslconversationquestions.com/topics/natural-wonders/)
-- [ ] [Neighborhoods](https://www.eslconversationquestions.com/topics/neighborhoods/)
-- [ ] [Neighbors](https://www.eslconversationquestions.com/topics/neighbors/)
+- [x] [Neighborhoods](https://www.eslconversationquestions.com/topics/neighborhoods/)
+- [x] [Neighbors](https://www.eslconversationquestions.com/topics/neighbors/)
 - [ ] [News](https://www.eslconversationquestions.com/topics/news/)
 - [ ] [Numbers](https://www.eslconversationquestions.com/topics/numbers/)
 - [ ] [Online Dating](https://www.eslconversationquestions.com/topics/online-dating/)
